@@ -16,8 +16,8 @@
 - [📁 Project Structure](#-project-structure)
   - [📂 Project Index](#-project-index)
 - [🚀 Getting Started](#-getting-started)
-  - [☑️ Prerequisites](#-prerequisites)
-  - [⚙️ Installation](#-installation)
+  - [☑️ Prerequisites](https://github.com/piktx/recommendation-system/blob/main/README.md#%EF%B8%8F-prerequisites)
+  - [⚙️ Installation](https://github.com/piktx/recommendation-system/blob/main/README.md#%EF%B8%8F-installation)
 - [🔰 Contributing](#-contributing)
 - [🙌 Acknowledgments](#-acknowledgments)
 
