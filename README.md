@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://github.com/piktx/recommendation-system/blob/main/rs.svg" alt="Version">
+	<img src="https://github.com/piktx/recommendation-system/blob/main/assests/rs.svg" alt="Version">
 </div>
 <p align="center">
 	<em>🚀 Smart Product Recommendation System</em>
