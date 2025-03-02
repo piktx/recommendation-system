@@ -41,7 +41,10 @@ An intelligent recommendation engine that combines LLM capabilities with real-ti
 
 ```sh
 └── recommendation-system/
+    ├── README.md
     ├── app.py
+    ├── assests
+    │   └── rs.svg
     └── requirements.txt
 ```
 
@@ -55,7 +58,7 @@ An intelligent recommendation engine that combines LLM capabilities with real-ti
 			<table>
 			<tr>
 				<td><b><a href='https://github.com/piktx/recommendation-system/blob/master/app.py'>app.py</a></b></td>
-				<td><code>Main python file</code></td>
+				<td><code>Main Python file</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/piktx/recommendation-system/blob/master/requirements.txt'>requirements.txt</a></b></td>
