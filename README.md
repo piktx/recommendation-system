@@ -88,7 +88,7 @@ Install recommendation-system using one of the following methods:
 
 1. Clone the recommendation-system repository:
 ```sh
-git clone https://github.com/piktx/recommendation-system
+git clone https://github.com/piktx/recommendation-system.git
 ```
 
 2. Navigate to the project directory:
